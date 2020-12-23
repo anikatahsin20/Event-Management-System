@@ -9,7 +9,7 @@
 
 
 
-    <!-- Stylesheet -->
+    <!-- Stylesheet --> <!-- trail-->
     <link rel="stylesheet" href="../frontend/style.css">
 
 </head>
